@@ -1,2 +1,3 @@
 # Neural_Network_Project
-Neural network models for Skin-Cancer-Detection (Using CNN,LSTM,GRU,Transformers)
+The project concept was revised to a model that classifies houses into four categories: structural cracks, decay, honeycombing, or the absence of any construction-related issues.
+
